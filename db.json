@@ -1,0 +1,25 @@
+[{
+  "id": "1",
+  "name": "Volkswagen",
+  "model": "Golf R",
+  "matricule": "a-13",
+  "latitude": 45.9267,
+  "longitude": 4.21875,
+  "sender_id": "1434055813368662"
+},
+{
+  "id": "2","name":"Volkswagen","model":"GTI","matricule":"new-year","latitude":26.242184,"longitude":-10.546875, "sender_id": "1434055813368662"
+},
+{
+  "id": "3","name":"Volkswagen","model":"CC","matricule":"never-mind","latitude":29.657505,"longitude":-6.328125, "sender_id": "1434055813368662"
+},
+{
+  "id": "4","name":"Renault","model":"Captur","matricule":"wooow","latitude":29.657505,"longitude":-6.328125, "sender_id": "1434055813368662"
+},
+{
+  "id": "5","name":"Clio","model":"Renaultsport","matricule":"123456789","latitude":42.914596,"longitude":-0.351563, "sender_id": "1434055813368662"
+},
+{
+  "id": "6","name":"Land Rover","model":"LR2","matricule":"0987654321","latitude":37.829743,"longitude":-5.625, "sender_id": "1434055813368662"
+}
+]
